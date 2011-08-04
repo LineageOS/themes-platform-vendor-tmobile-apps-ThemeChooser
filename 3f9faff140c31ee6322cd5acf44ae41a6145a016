@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//+/Y\u003d",
+        "filename": "src/com/tmobile/themechooser/ThemeChooser.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 202,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2011-08-04T08:05:59Z",
+      "side": 1,
+      "message": "I would both change this to the end of the function and add a brief comment on why this is needed since knowledge of cmparts is required to understand its purpose.",
+      "revId": "3f9faff140c31ee6322cd5acf44ae41a6145a016",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
