@@ -42,6 +42,7 @@ import android.widget.Gallery;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemSelectedListener;
+import android.provider.Settings;
 
 public class ThemeChooser extends Activity {
     private static final String TAG = ThemeChooser.class.getSimpleName();
@@ -198,6 +199,8 @@ public class ThemeChooser extends Activity {
     };
 
     private void doApply(ThemeItem item) {
+        Settings.System.putInt(getApplicationContext().getContentResolver(),
+                Settings.System.OVERSCROLL_COLOR,0);
         Uri uri = item.getUri(ThemeChooser.this);
         Log.i(TAG, "Sending request to change to '" + item.getName() + "' (" + uri + ")");
         mChangeHelper.beginChange(item.getName());
