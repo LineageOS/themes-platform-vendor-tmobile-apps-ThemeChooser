@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAALH///4o\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1869
+      },
+      "writtenOn": "2011-11-06T19:34:51Z",
+      "side": 1,
+      "message": "Should be \"Témaválasztó\"",
+      "revId": "6311a0df7c7e244cb329965cd6a91ebb8c059e75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///4k\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1869
+      },
+      "writtenOn": "2011-11-06T19:34:51Z",
+      "side": 1,
+      "message": "Should be \"Témaválasztó\"",
+      "revId": "6311a0df7c7e244cb329965cd6a91ebb8c059e75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///4g\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1869
+      },
+      "writtenOn": "2011-11-06T19:34:51Z",
+      "side": 1,
+      "message": "Should be \"Téma beállításai\" (probably, but I can\u0027t see where it is displayed)",
+      "revId": "6311a0df7c7e244cb329965cd6a91ebb8c059e75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///4w\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1869
+      },
+      "writtenOn": "2011-11-06T19:34:51Z",
+      "side": 1,
+      "message": "Should be \"Alkalmazás...\"",
+      "revId": "6311a0df7c7e244cb329965cd6a91ebb8c059e75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///4s\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1869
+      },
+      "writtenOn": "2011-11-06T19:34:51Z",
+      "side": 1,
+      "message": "Should be \"Váltás %s témára...\" (because of the inflection)",
+      "revId": "6311a0df7c7e244cb329965cd6a91ebb8c059e75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///4Y\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1869
+      },
+      "writtenOn": "2011-11-06T19:34:51Z",
+      "side": 1,
+      "message": "You don\u0027t need that last comma",
+      "revId": "6311a0df7c7e244cb329965cd6a91ebb8c059e75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAALH///4c\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1869
+      },
+      "writtenOn": "2011-11-06T19:34:51Z",
+      "side": 1,
+      "message": "Should be \"Alkalmazás\"",
+      "revId": "6311a0df7c7e244cb329965cd6a91ebb8c059e75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
