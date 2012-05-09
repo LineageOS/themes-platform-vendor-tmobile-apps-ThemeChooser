@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAS3///Qk\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-05-09T19:20:47Z",
+      "side": 1,
+      "message": "Hint for the future: ... can be written as \\u2026, so it\u0027s displayed as one character only.",
+      "revId": "8b1476c201ed4913a69d777226afee4070cf3006",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
