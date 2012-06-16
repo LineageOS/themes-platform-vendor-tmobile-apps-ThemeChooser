@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//+PA\u003d",
+        "filename": "res/values-pt-rPT/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1043
+      },
+      "writtenOn": "2012-06-16T18:02:43Z",
+      "side": 1,
+      "message": "%s (actual)",
+      "revId": "ff504107c1fcfcbcdb49fc21d5be1130a70fb812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//+O4\u003d",
+        "filename": "res/values-pt-rPT/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1043
+      },
+      "writtenOn": "2012-06-16T18:02:43Z",
+      "side": 1,
+      "message": "Remove \"Desculpe\", and should change to \"Neste tema faltam items para o tamanho de ecrã do seu dispositivo\", or better: \"Faltam items para o tamanho de ecrã do seu dispositivo\", since the Theme is implied by the context of the app",
+      "revId": "ff504107c1fcfcbcdb49fc21d5be1130a70fb812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
