@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Theme Chooser</string>
+    <string name="app_title">Theme Chooser</string>
+    <string name="apply">適用</string>
+
+    <string name="menu_header">テーマオプション</string>
+    <string name="menu_uninstall">アンインストール</string>
+    <string name="theme_current">%s (既定)</string>
+    <string name="theme_change_dialog_title">適用中...</string>
+    <string name="switching_to_theme">次のテーマに変更します: <xliff:g id="theme">%s</xliff:g>...</string>
+    <string name="item_count">%1$d/%2$d</string>
+
+    <string name="dialog_theme_error_title">テーマエラー</string>
+    <string name="dialog_missing_host_density_msg">申し訳ございません。このテーマにはあなたの端末の画面サイズのアセットがありません。</string>
+    <string name="dialog_missing_theme_package_scope_msg">このテーマは不適切にコンパイルされており適用できません。これをテーマ作者に報告してください。</string>
+    <string name="dialog_apply_anyway_btn">無視して適用</string>
+    <string name="dialog_bummer_btn">中断</string>
+</resources>
