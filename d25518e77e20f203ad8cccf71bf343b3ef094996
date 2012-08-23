@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWX//9/Q\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-08-23T01:54:00Z",
+      "side": 1,
+      "message": "Dit thema mist bestanden voor de schermgrootte van uw apparaat. (http://developer.android.com/design/style/writing.html#examples nummer 3)",
+      "revId": "d25518e77e20f203ad8cccf71bf343b3ef094996",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
