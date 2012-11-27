@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
  # Copyright (C) 2011, T-Mobile USA, Inc.
+ # This code has been modified.  Portions copyright (C) 2012, ParanoidAndroid Project.
  #
  # Licensed under the Apache License, Version 2.0 (the "License");
  # you may not use this file except in compliance with the License.
@@ -16,14 +17,6 @@
  -->
 
 <resources>
-    <dimen name="chooserheader_marginTop">6dp</dimen>
-    <dimen name="chooserheader_marginBottom">6dp</dimen>
-
-    <dimen name="choosertext_marginTop">305dp</dimen>
-    <dimen name="chooserapply_marginTop">8dp</dimen>
-    <dimen name="chooserapply_marginBottom">2dp</dimen>
-
-    <dimen name="preview_height_size">300dp</dimen>
-    <dimen name="preview_width_size">180dp</dimen>
-
+    <dimen name="preview_height_size">400dp</dimen>
+    <dimen name="preview_width_size">240dp</dimen>
 </resources>
