@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcH///lU\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-03T20:59:31Z",
+      "side": 1,
+      "message": "Please use unicode for the three dots.\n\n...    \u003d    \\u2026",
+      "revId": "6f2996c08b69b06578664751ad5982fac5ef3763",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///lQ\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-03T20:59:31Z",
+      "side": 1,
+      "message": "Same here",
+      "revId": "6f2996c08b69b06578664751ad5982fac5ef3763",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
