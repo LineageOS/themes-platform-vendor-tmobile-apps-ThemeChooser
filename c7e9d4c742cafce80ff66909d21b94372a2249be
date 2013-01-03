@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcH///gc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-03T23:49:57Z",
+      "side": 1,
+      "message": "Bitte warten finde ich gut",
+      "parentUuid": "AAAAcH///ho\u003d",
+      "revId": "c7e9d4c742cafce80ff66909d21b94372a2249be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcH///hk\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 2
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcH///gU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-03T23:49:57Z",
+      "side": 1,
+      "message": "Ich wäre für: \u003cxliff:g id\u003d\"theme\"\u003e%s\u003c/xliff:g\u003e wird aktiviert\\u2026",
+      "parentUuid": "AAAAcH///hk\u003d",
+      "revId": "c7e9d4c742cafce80ff66909d21b94372a2249be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcH///iU\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 2
@@ -47,6 +83,24 @@
       "writtenOn": "2013-01-03T22:05:42Z",
       "side": 1,
       "message": "Wir versuchen es zu vermeiden den Benutzer anzusprechen.\r\nEventuell:\r\nDiesem Design fehlen Inhalte für die Bildschirmauflösung des Gerätes.",
+      "revId": "c7e9d4c742cafce80ff66909d21b94372a2249be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///gQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-03T23:49:57Z",
+      "side": 1,
+      "message": "Finde ich gut",
+      "parentUuid": "AAAAcH///iU\u003d",
       "revId": "c7e9d4c742cafce80ff66909d21b94372a2249be",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false

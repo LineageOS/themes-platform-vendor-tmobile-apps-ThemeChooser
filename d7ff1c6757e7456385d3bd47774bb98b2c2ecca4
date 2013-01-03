@@ -16,6 +16,24 @@
       "revId": "d7ff1c6757e7456385d3bd47774bb98b2c2ecca4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///gM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-03T23:49:57Z",
+      "side": 0,
+      "message": "Ich finde es zu viel an Informationen und es spricht den User wieder direkt an.",
+      "parentUuid": "AAAAcH///hg\u003d",
+      "revId": "d7ff1c6757e7456385d3bd47774bb98b2c2ecca4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
