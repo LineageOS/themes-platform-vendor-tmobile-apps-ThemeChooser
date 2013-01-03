@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcH///iU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-01-03T22:05:42Z",
+      "side": 1,
+      "message": "Wir versuchen es zu vermeiden den Benutzer anzusprechen.\r\nEventuell:\r\nDiesem Design fehlen Inhalte für die Bildschirmauflösung des Gerätes.",
+      "revId": "c7e9d4c742cafce80ff66909d21b94372a2249be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
