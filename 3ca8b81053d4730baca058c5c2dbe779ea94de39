@@ -16,6 +16,24 @@
       "revId": "3ca8b81053d4730baca058c5c2dbe779ea94de39",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///dE\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-04T01:53:05Z",
+      "side": 1,
+      "message": "Je suis d\u0027accord, mais elle est pas de moi cette phrase :) Je corrige",
+      "parentUuid": "AAAAcH///dU\u003d",
+      "revId": "3ca8b81053d4730baca058c5c2dbe779ea94de39",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
