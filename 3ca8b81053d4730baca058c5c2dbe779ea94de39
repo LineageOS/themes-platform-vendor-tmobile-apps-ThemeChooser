@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcH///dU\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4045
+      },
+      "writtenOn": "2013-01-04T01:49:33Z",
+      "side": 1,
+      "message": "\"Ce thème n\\\u0027a pas été compilé correctement et ne peut être appliqué.\"est-ce que ce ne serait pas mieux ? (juste un avis)",
+      "revId": "3ca8b81053d4730baca058c5c2dbe779ea94de39",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
