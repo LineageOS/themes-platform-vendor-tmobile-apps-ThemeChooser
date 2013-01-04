@@ -1,0 +1,293 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcH///Uc\u003d",
+        "filename": "res/values-el/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///UY\u003d",
+        "filename": "res/values-el/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///UU\u003d",
+        "filename": "res/values-it/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///UQ\u003d",
+        "filename": "res/values-it/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///UM\u003d",
+        "filename": "res/values-iw/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///UI\u003d",
+        "filename": "res/values-iw/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///UE\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///UA\u003d",
+        "filename": "res/values-pt/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///T8\u003d",
+        "filename": "res/values-ro/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///T4\u003d",
+        "filename": "res/values-ro/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///T0\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///Tw\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///Ts\u003d",
+        "filename": "res/values-sv/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///To\u003d",
+        "filename": "res/values-sv/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please use unicode here too.",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///Tk\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please remove the \"\" before/after \u003cxliff:g id\u003d\"theme\"\u003e%s\u003c/xliff:g\u003e",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///Tg\u003d",
+        "filename": "res/values-zh-rTW/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Please remove the \"\" before/after \u003cxliff:g id\u003d\"theme\"\u003e%s\u003c/xliff:g\u003e",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///Tc\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T07:00:47Z",
+      "side": 1,
+      "message": "Will add that to my change :)",
+      "revId": "0b374127dbc8f4054893f6a49eb62bbe01525f90",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
