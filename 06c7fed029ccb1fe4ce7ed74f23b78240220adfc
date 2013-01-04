@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcH///c4\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-04T01:56:00Z",
+      "side": 1,
+      "message": "C\u0027est plus clair comme ça.",
+      "revId": "06c7fed029ccb1fe4ce7ed74f23b78240220adfc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
