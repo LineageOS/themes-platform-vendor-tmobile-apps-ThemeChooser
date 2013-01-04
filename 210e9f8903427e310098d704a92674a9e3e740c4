@@ -2,6 +2,57 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAcH///Mg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-04T17:25:18Z",
+      "side": 1,
+      "message": "Einschalten?\nIn Dutch, AOSP only uses \u0027inschakelen\u0027.",
+      "revId": "210e9f8903427e310098d704a92674a9e3e740c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///Mc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-04T17:25:18Z",
+      "side": 1,
+      "message": "- ...wird eingeschaltet...",
+      "revId": "210e9f8903427e310098d704a92674a9e3e740c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///MY\u003d",
+        "filename": "res/values/dimens.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-04T17:25:18Z",
+      "side": 1,
+      "message": "Let\u0027s stick to 2011 here (the files could be modified seperately)",
+      "revId": "210e9f8903427e310098d704a92674a9e3e740c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcH///TM\u003d",
         "filename": "res/values/strings.xml",
         "patchSetId": 4
