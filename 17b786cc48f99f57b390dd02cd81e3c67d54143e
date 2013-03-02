@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//5Y4\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-02T16:16:20Z",
+      "side": 1,
+      "message": "Please remove \u0027Désolé\u0027",
+      "revId": "17b786cc48f99f57b390dd02cd81e3c67d54143e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
