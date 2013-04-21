@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//4PI\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-04-21T00:19:36Z",
+      "side": 1,
+      "message": "Please revert. This is standard in AOSP and we should use their format.",
+      "revId": "409c4e494c5872d1fbc65691ab168c40c0d2125f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
