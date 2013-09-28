@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da37b569_c42410b1",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-28T06:03:24Z",
+      "side": 1,
+      "message": "Linux/UNIX file endings, please",
+      "revId": "3de0e908c6b8c48774fffcc43579de10ae556e74",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da37b569_643ae4cf",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-28T06:03:24Z",
+      "side": 1,
+      "message": "Please remove this line",
+      "revId": "3de0e908c6b8c48774fffcc43579de10ae556e74",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da37b569_a41f8c5a",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-28T06:03:24Z",
+      "side": 1,
+      "message": "Whitespace error",
+      "revId": "3de0e908c6b8c48774fffcc43579de10ae556e74",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
