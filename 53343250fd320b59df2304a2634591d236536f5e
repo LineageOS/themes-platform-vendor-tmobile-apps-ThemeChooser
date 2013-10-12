@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_22628ad9",
+        "filename": "res/values-zh-rTW/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 7437
+      },
+      "writtenOn": "2013-10-12T02:10:05Z",
+      "side": 1,
+      "message": "??????Themes?",
+      "revId": "53343250fd320b59df2304a2634591d236536f5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_c272c6ad",
+        "filename": "res/values-zh-rTW/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 7437
+      },
+      "writtenOn": "2013-10-12T02:10:05Z",
+      "side": 1,
+      "message": "AOSP style",
+      "revId": "53343250fd320b59df2304a2634591d236536f5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_626892bb",
+        "filename": "res/values-zh-rTW/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 7437
+      },
+      "writtenOn": "2013-10-12T02:10:05Z",
+      "side": 1,
+      "message": "AOSP style",
+      "revId": "53343250fd320b59df2304a2634591d236536f5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_e29a62c5",
+        "filename": "res/values-zh-rTW/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 7437
+      },
+      "writtenOn": "2013-10-12T02:10:05Z",
+      "side": 1,
+      "message": "??????This theme was improperly compiled and cannot be applied.?",
+      "revId": "53343250fd320b59df2304a2634591d236536f5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_425f960e",
+        "filename": "res/values-zh-rTW/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 7437
+      },
+      "writtenOn": "2013-10-12T02:10:05Z",
+      "side": 1,
+      "message": "??????Cancel?",
+      "revId": "53343250fd320b59df2304a2634591d236536f5e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
