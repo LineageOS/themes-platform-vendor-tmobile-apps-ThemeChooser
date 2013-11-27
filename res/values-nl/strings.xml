@@ -29,7 +29,7 @@
     <string name="switching_to_theme">Veranderen naar <xliff:g id="theme">%s</xliff:g>&#8230;</string>
     <string name="dialog_theme_error_title">Themafout</string>
     <string name="dialog_missing_host_density_msg">Dit thema mist bestanden voor de schermgrootte van uw apparaat</string>
-    <string name="dialog_missing_theme_package_scope_msg">Dit thema is onjuist gecompileerd en kan niet worden toegepast. Meld dit a.u.b. aan de maker van dit thema</string>
+    <string name="dialog_missing_theme_package_scope_msg">Dit thema is onjuist gecompileerd.</string>
     <string name="dialog_apply_anyway_btn">Toch toepassen</string>
     <string name="dialog_bummer_btn">Annuleren</string>
 </resources>
