@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_663af6cf",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T06:45:29Z",
+      "side": 1,
+      "message": "Can you shorten this line, as used in other projects?",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_c62402b1",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T06:45:29Z",
+      "side": 1,
+      "message": "Hmmm... Whitespace error?",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_8637dae2",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T06:45:29Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_2634eedc",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T06:45:29Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_4631f2eb",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T06:45:29Z",
+      "side": 1,
+      "message": "https://github.com/CyanogenMod/android_packages_apps_CMFileManager/blob/cm-10.2/res/values/strings.xml#L45",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
