@@ -2,6 +2,57 @@
   "comments": [
     {
       "key": {
+        "uuid": "fa80f949_465fb20e",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T08:20:18Z",
+      "side": 1,
+      "message": "Deze resources lijn moet ook verkort worden.",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_86659ae2",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T08:20:18Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_2662aed9",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T08:20:18Z",
+      "side": 1,
+      "message": "\\u2026",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa80f949_062bea83",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 5
@@ -31,6 +82,24 @@
       "side": 1,
       "message": "Is wel een vrije vertaling, maar zou ook kunnen.\n\nIk zou het dan zo doen\n\n- Dit thema mist bestanden uw schermresolutie.",
       "parentUuid": "fa80f949_062bea83",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_a6a45e08",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T08:20:18Z",
+      "side": 1,
+      "message": "Persoonlijk vind ik \u0027mist bestanden voor uw schermresolutie\u0027 klinken alsof er een erg grote kans is dat het niet gaat werken. Daarom zeg ik \u0027specifiek voor uw resolutie aangepast\u0027, om aan te geven dat dat niet per se het geval hoeft te zijn.\n\nIn ieder geval \u0027voor uw schermresolutie\u0027.",
+      "parentUuid": "fa80f949_a66d3ece",
       "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
