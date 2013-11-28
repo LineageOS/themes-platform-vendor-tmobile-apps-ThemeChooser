@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_062bea83",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-11-28T06:42:24Z",
+      "side": 1,
+      "message": "\u0027Dit thema is niet specifiek voor uw resolutie aangepast.\u0027?",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
