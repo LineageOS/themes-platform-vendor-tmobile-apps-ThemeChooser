@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_86091a34",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2013-11-28T22:40:40Z",
+      "side": 1,
+      "message": "Extra carrot?",
+      "revId": "be73604daddae79204474db3aaef09dbcf5573f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
