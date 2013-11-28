@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fa80f949_06876a62",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:29:29Z",
+      "side": 1,
+      "message": "\u003cresources xmlns:xliff\u003d\"urn:oasis:names:tc:xliff:document:1.2\"\u003e",
+      "parentUuid": "fa80f949_663af6cf",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa80f949_c62402b1",
         "filename": "res/values/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-11-28T06:45:29Z",
       "side": 1,
       "message": "Hmmm... Whitespace error?",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_a67bfe7a",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:29:29Z",
+      "side": 1,
+      "message": "I see it, done",
+      "parentUuid": "fa80f949_c62402b1",
       "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "fa80f949_c6808249",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:29:29Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa80f949_8637dae2",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa80f949_2634eedc",
         "filename": "res/values/strings.xml",
         "patchSetId": 1
@@ -70,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "fa80f949_66967696",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:29:29Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa80f949_2634eedc",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa80f949_4631f2eb",
         "filename": "res/values/strings.xml",
         "patchSetId": 1
@@ -81,6 +153,24 @@
       "writtenOn": "2013-11-28T06:45:29Z",
       "side": 1,
       "message": "https://github.com/CyanogenMod/android_packages_apps_CMFileManager/blob/cm-10.2/res/values/strings.xml#L45",
+      "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_86935aa3",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:29:29Z",
+      "side": 1,
+      "message": "\u003cstring name\u003d\"dialog_bummer_btn\" translatable\u003d\"false\"\u003e@android:string/cancel\u003c/string\u003e",
+      "parentUuid": "fa80f949_4631f2eb",
       "revId": "eeedc23a14e89243dc4341e37117500aaeb19320",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
