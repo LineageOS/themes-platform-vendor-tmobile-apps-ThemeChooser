@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fa80f949_46b6d23e",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:26:15Z",
+      "side": 1,
+      "message": "\u003cresources xmlns:xliff\u003d\"urn:oasis:names:tc:xliff:document:1.2\"\u003e",
+      "parentUuid": "fa80f949_465fb20e",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa80f949_86659ae2",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 5
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "fa80f949_86acbaee",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:26:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa80f949_86659ae2",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa80f949_2662aed9",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 5
@@ -47,6 +83,24 @@
       "writtenOn": "2013-11-28T08:20:18Z",
       "side": 1,
       "message": "\\u2026",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_26b94e2f",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:26:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa80f949_2662aed9",
       "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -100,6 +154,24 @@
       "side": 1,
       "message": "Persoonlijk vind ik \u0027mist bestanden voor uw schermresolutie\u0027 klinken alsof er een erg grote kans is dat het niet gaat werken. Daarom zeg ik \u0027specifiek voor uw resolutie aangepast\u0027, om aan te geven dat dat niet per se het geval hoeft te zijn.\n\nIn ieder geval \u0027voor uw schermresolutie\u0027.",
       "parentUuid": "fa80f949_a66d3ece",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_66af56e4",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:26:15Z",
+      "side": 1,
+      "message": "Het is juist ook de bedoeling dat het afschrikt toch? Niet dat mensen straks gaan klagen omdat ze niet gewaarschuwd zijn. Vind niet dat de NLse vertaling minder erg moet zijn als de Engelse...",
+      "parentUuid": "fa80f949_a6a45e08",
       "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
