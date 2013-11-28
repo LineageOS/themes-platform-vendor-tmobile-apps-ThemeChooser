@@ -16,6 +16,24 @@
       "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_a66d3ece",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-28T08:16:07Z",
+      "side": 1,
+      "message": "Is wel een vrije vertaling, maar zou ook kunnen.\n\nIk zou het dan zo doen\n\n- Dit thema mist bestanden uw schermresolutie.",
+      "parentUuid": "fa80f949_062bea83",
+      "revId": "1f24789ecb365fc21dda32483c7e4d0b4112733c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
