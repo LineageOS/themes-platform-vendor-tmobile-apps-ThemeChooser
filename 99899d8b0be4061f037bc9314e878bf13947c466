@@ -16,6 +16,24 @@
       "revId": "99899d8b0be4061f037bc9314e878bf13947c466",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa80f949_4146bcc0",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-11-29T13:27:19Z",
+      "side": 1,
+      "message": "Is this correct?\n\n- Váltás \u003cxliff:g id\u003d\"theme\"\u003e%s\u003c/xliff:g\u003e témára\\u2026\u003c/string\u003e",
+      "parentUuid": "fa80f949_c1a94ce1",
+      "revId": "99899d8b0be4061f037bc9314e878bf13947c466",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
