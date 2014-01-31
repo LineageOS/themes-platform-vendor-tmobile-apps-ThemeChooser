@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_85c4e440",
+        "filename": "res/values-es/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2014-01-31T04:39:21Z",
+      "side": 1,
+      "message": "\"Este tema está incompleto para el tamaño de pantalla de este dispositivo.\"",
+      "revId": "89cba70d2d61851586254a571ce22f3528bf3573",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_65c1e02e",
+        "filename": "res/values-es/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2014-01-31T04:39:21Z",
+      "side": 1,
+      "message": "\"Este tema ha sido compilado incorrectamente.\"",
+      "revId": "89cba70d2d61851586254a571ce22f3528bf3573",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
