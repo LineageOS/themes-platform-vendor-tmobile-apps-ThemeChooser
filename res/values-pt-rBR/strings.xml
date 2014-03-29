@@ -17,18 +17,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Temas</string>
+  <string name="app_name">Nome</string>
   <string name="menu_apply">Aplicar</string>
   <string name="menu_uninstall">Desinstalar</string>
-  <string name="menu_about">Acerca de</string>
-  <string name="theme_current">%s (actual)</string>
-  <string name="theme_current_author">Autor: </string>
-  <string name="theme_current_name">Nombre: </string>
-  <string name="theme_current_package">Paquete: </string>
+  <string name="menu_about">Sobre</string>
+  <string name="theme_current">Tema Atual</string>
+  <string name="theme_current_author">Autor do Tema</string>
+  <string name="theme_current_name">Nome do Tema</string>
+  <string name="theme_current_package">Pacote Atual</string>
   <string name="theme_change_dialog_title">Aplicando\u2026</string>
-  <string name="switching_to_theme">Cambiando a <xliff:g id="theme">%s</xliff:g>\u2026</string>
-  <string name="dialog_theme_error_title">Error</string>
-  <string name="dialog_missing_host_density_msg">Este tema está incompleto para el tamaño de pantalla de este dispositivo.</string>
-  <string name="dialog_missing_theme_package_scope_msg">Este tema ha sido compilado incorrectamente.</string>
-  <string name="dialog_apply_anyway_btn">Aplicar igualmente</string>
+  <string name="switching_to_theme">Trocar o Tema</string>
+  <string name="dialog_theme_error_title">Erro no tema</string>
+  <string name="dialog_missing_host_density_msg">Está faltando alguns recursos para a resolução de tela do seu dispositivo.</string>
+  <string name="dialog_missing_theme_package_scope_msg">Este tema foi indevidamente compilado.</string>
+  <string name="dialog_apply_anyway_btn">Aplicar mesmo assim</string>
 </resources>
