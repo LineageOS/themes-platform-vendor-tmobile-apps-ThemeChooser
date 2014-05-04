@@ -28,7 +28,7 @@
   <string name="theme_change_dialog_title">Примена\u2026</string>
   <string name="switching_to_theme">Прелазак на <xliff:g id="theme">%s</xliff:g>\u2026</string>
   <string name="dialog_theme_error_title">Грешка теме</string>
-  <string name="dialog_missing_host_density_msg">Овој теми недостају средства за резолуцију екрана вашег уређаја.</string>
+  <string name="dialog_missing_host_density_msg">Овој теми недостају средства за резолуцију екрана Вашег уређаја.</string>
   <string name="dialog_missing_theme_package_scope_msg">Ова тема је непрописно састављена.</string>
   <string name="dialog_apply_anyway_btn">Ипак примени</string>
 </resources>
